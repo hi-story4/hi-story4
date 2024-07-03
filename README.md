@@ -1,4 +1,4 @@
-## 안녕하세요! 비즈니스 중심 개발을 중시하는 개발자 신준혁입니다. 👋
+## 안녕하세요! 비즈니스 중심 개발을 좋아하는 개발자 신준혁입니다. 👋
 
 <!--
 **hi-story4/hi-story4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
