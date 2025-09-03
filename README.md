@@ -124,7 +124,7 @@ Legacy Code Refactoring
 
 AWS EC2 / AWS RDS / AWS S3
 
-Docker / Docker hub
+Docker
 
 ![로고.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/60af02e3-3960-4ce1-bd3b-784de6473de2/44389fcc-3ec2-4a2e-a697-2b38ae639277/%E1%84%85%E1%85%A9%E1%84%80%E1%85%A9.jpg)
 
